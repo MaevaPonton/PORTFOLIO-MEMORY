@@ -1,8 +1,0 @@
-.card
-{
-    height: 200px;
-    width: 200px;
-    border: 2px solid black;
-    filter: opacity(60%);
-    justify-content: center;
-}
